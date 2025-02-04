@@ -7,6 +7,7 @@ ML Research Assistant with expertise in Reinforcement Learning and Computer Visi
 1. **STEVE-Audio: Expanding the Goal Conditioning Modalities of Embodied Agents in Minecraft**
    - CoRL : Lifelong Learning for Home Robots 2024
    - Nicholas Lenzen, Amogh Raut, Andrew Melnik
+   - [📄 Paper](https://arxiv.org/abs/2412.00949)
 
 2. **Behavioral Cloning via Search in Video PreTraining Latent Space**
    - ICRA : Lifelong Learning with Human Help 2023
