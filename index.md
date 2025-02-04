@@ -7,36 +7,34 @@ ML Research Assistant with expertise in Reinforcement Learning and Computer Visi
 1. **STEVE-Audio: Expanding the Goal Conditioning Modalities of Embodied Agents in Minecraft**
    - CoRL : Lifelong Learning for Home Robots 2024
    - Nicholas Lenzen, Amogh Raut, Andrew Melnik
-   - [📄 Paper](https://arxiv.org/abs/2412.00949)
+   - [📄 Arxiv](https://arxiv.org/abs/2412.00949) | [💻 Code](https://github.com/nlenzen/steve_multimodal/) | [🌐 Website](https://sites.google.com/itbhu.ac.in/steve-audio/home) |
 
 2. **Behavioral Cloning via Search in Video PreTraining Latent Space**
    - ICRA : Lifelong Learning with Human Help 2023
    - Federico Malato, Florian Leopold, Amogh Raut, Ville Hautamäki, Andrew Melnik
+   - [📄 Arxiv](https://arxiv.org/abs/2212.13326) | [🎥 Demo](https://drive.google.com/file/d/1DF9WZior4eIapOpjCIFtnbnhP_5tuckY/view?usp=share_link)
 
 3. **Towards Solving Fuzzy Tasks with Human Feedback**
    - Proceedings of Machine Learning Research 2023
+   - [📄 Arxiv](https://arxiv.org/abs/2303.13512)
 
 ## Featured Projects
 
 ### Hopper Behavior Modification
-Created a unique dataset in the MuJoCo environment by modifying the reward structure of hopper, including scenarios for slower hopping, reverse hopping, and standing still.
-- **Skills**: Reward Engineering, MuJoCo
+As part of an exploratory research effort, I created a unique dataset in the MuJoCo environment
+by modifying the reward structure of hopper. This dataset includes scenarios where the hopper
+hops slower, hops in reverse, and stands still.
+- [🎥 Demo](https://drive.google.com/drive/u/1/folders/1e6jph-_49LnZMyFoIZvSZe4GQLZQ7AIG)
+- **Skills**: Reward Engineering
 
 ### Data Free Model Extraction
-Developed model extraction methods for video classification models trained on Kinetics 400/600 dataset.
+As a part of Inter IIT Tech Meet, we at IIT Varanasi developed a model extraction method for
+video classification models like SwinT and MoViNets trained on Kinetics 400/600 dataset in Black
+Box setting (Full dataset abstraction) and Grey Box setting (Using only 5% of dataset)
+- [💻 Code](https://github.com/COPS-IITBHU/Model-Extraction-Attacks-Video-Classification)
 - **Skills**: Model Extraction, Generative Modelling
 
 ### AI Mathematics Olympiad
 Implemented 4-bit quantized QwQ-32B-Preview model for mathematical reasoning tasks.
 - **Skills**: Quantization, Chain-of-Thought Reasoning
 
-## Research Experience
-
-**Research Assistant - Neuroinformatics Group, Bielefeld University**
-- Won Round 1 and finished runner-up in NeurIPS 2022 MineRL BASALT Challenge
-- Published papers at CoRL 2024 and ICRA 2023
-
-## Skills
-- **Languages**: Python, C++, Java
-- **Frameworks**: PyTorch, TensorFlow, Keras
-- **Areas**: Reinforcement Learning, Computer Vision, NLP
