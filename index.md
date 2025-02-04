@@ -20,21 +20,21 @@ ML Research Assistant with expertise in Reinforcement Learning and Computer Visi
 
 ## Featured Projects
 
-### Hopper Behavior Modification
+## Hopper Behavior Modification
 As part of an exploratory research effort, I created a unique dataset in the MuJoCo environment
 by modifying the reward structure of hopper. This dataset includes scenarios where the hopper
 hops slower, hops in reverse, and stands still.
 - [🎥 Demo](https://drive.google.com/drive/u/1/folders/1e6jph-_49LnZMyFoIZvSZe4GQLZQ7AIG)
 - **Skills**: Reward Engineering
 
-### Data Free Model Extraction
+## Data Free Model Extraction
 As a part of Inter IIT Tech Meet, we at IIT Varanasi developed a model extraction method for
 video classification models like SwinT and MoViNets trained on Kinetics 400/600 dataset in Black
 Box setting (Full dataset abstraction) and Grey Box setting (Using only 5% of dataset)
 - [💻 Code](https://github.com/COPS-IITBHU/Model-Extraction-Attacks-Video-Classification)
 - **Skills**: Model Extraction, Generative Modelling
 
-### AI Mathematics Olympiad
+## AI Mathematics Olympiad
 Implemented 4-bit quantized QwQ-32B-Preview model for mathematical reasoning tasks.
 - **Skills**: Quantization, Chain-of-Thought Reasoning
 
