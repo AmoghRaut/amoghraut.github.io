@@ -1,6 +1,7 @@
 # About Me
 
-ML Research Assistant with expertise in Reinforcement Learning and Computer Vision. Graduate from IIT Varanasi with an Integrated Dual Degree in Mathematics and Computing.
+
+I am a recent graduate from the Indian Institute of Technology (IIT) Banaras Hindu University, Varanasi with an Integrated Dual Degree in Mathematics and Computing. Previously, I worked as a Research Assistant at the Neuroinformatics Group, Bielefeld University. My research interests lie in Reinforcement Learning and its applications in developing intelligent agents.
 
 ## Publications
 
