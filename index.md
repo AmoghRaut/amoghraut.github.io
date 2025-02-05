@@ -5,12 +5,12 @@ I am a recent graduate from the Indian Institute of Technology (IIT) Banaras Hin
 
 ## Contact & Social
 
-<div style="display: flex; justify-content: center; gap: 20px;">
-    [<img width="50" height="50" src="https://img.icons8.com/ios/100/mail.png" alt="mail"/>](mailto:rautamogh3@gmail.com)
-    [<img width="50" height="50" src="https://img.icons8.com/ios/50/google-scholar--v2.png" alt="google-scholar--v2"/>](https://scholar.google.com/citations?user=c2-mjNUAAAAJ&hl=en)
-    [<img width="50" height="50" src="https://img.icons8.com/ios/50/github--v1.png" alt="github--v1"/>](https://github.com/AmoghRaut)
-    [<img width="50" height="50" src="https://img.icons8.com/ios/50/linkedin.png" alt="linkedin"/>](https://www.linkedin.com/in/amogh-raut-4288a4264/)
-</div>
+
+
+[<img width="50" height="50" style="margin-right: 20px;" src="https://img.icons8.com/ios/100/mail.png" alt="mail"/>](mailto:rautamogh3@gmail.com)
+[<img width="50" height="50" style="margin-right: 20px;" src="https://img.icons8.com/ios/50/google-scholar--v2.png" alt="google-scholar--v2"/>](https://scholar.google.com/citations?user=c2-mjNUAAAAJ&hl=en)
+[<img width="50" height="50" style="margin-right: 20px;" src="https://img.icons8.com/ios/50/github--v1.png" alt="github--v1"/>](https://github.com/AmoghRaut)
+[<img width="50" height="50" src="https://img.icons8.com/ios/50/linkedin.png" alt="linkedin"/>](https://www.linkedin.com/in/amogh-raut-4288a4264/)
 
 ## Publications
 
