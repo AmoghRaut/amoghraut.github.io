@@ -7,7 +7,7 @@ I am a recent graduate from the Indian Institute of Technology (IIT) Banaras Hin
 
 [<img src="https://img.shields.io/badge/GitHub-AmoghRaut-blue?style=flat-square&logo=github" alt="GitHub">](https://github.com/AmoghRaut)
 [<img src="https://img.shields.io/badge/LinkedIn-Amogh%20Raut-blue?style=flat-square&logo=linkedin" alt="LinkedIn">](https://www.linkedin.com/in/amogh-raut-4288a4264/)
-[<img src="https://img.shields.io/badge/Email-rautamogh3@gmail.com-red?style=flat-square&logo=gmail" alt="Email">](mailto:rautamogh3@gmail.com)
+[<img width="100" height="100" src="https://img.icons8.com/ios/100/mail.png" alt="mail"/>](mailto:rautamogh3@gmail.com)
 
 ## Publications
 
