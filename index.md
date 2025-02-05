@@ -3,6 +3,12 @@
 
 I am a recent graduate from the Indian Institute of Technology (IIT) Banaras Hindu University, Varanasi with an Integrated Dual Degree in Mathematics and Computing. Previously, I worked as a Research Assistant at the Neuroinformatics Group, Bielefeld University. My research interests lie in Reinforcement Learning and its applications in developing intelligent agents.
 
+## Contact & Social
+
+[<img src="https://img.shields.io/badge/GitHub-AmoghRaut-blue?style=flat-square&logo=github" alt="GitHub">](https://github.com/AmoghRaut)
+[<img src="https://img.shields.io/badge/LinkedIn-Amogh%20Raut-blue?style=flat-square&logo=linkedin" alt="LinkedIn">](https://www.linkedin.com/in/amogh-raut-4288a4264/)
+[<img src="https://img.shields.io/badge/Email-rautamogh3@gmail.com-red?style=flat-square&logo=gmail" alt="Email">](mailto:rautamogh3@gmail.com)
+
 ## Publications
 
 1. **STEVE-Audio: Expanding the Goal Conditioning Modalities of Embodied Agents in Minecraft**
