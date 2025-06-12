@@ -33,9 +33,9 @@ As a part of Inter IIT Tech Meet, implemented model extraction techniques for vi
 - [💻 Code](https://github.com/COPS-IITBHU/Model-Extraction-Attacks-Video-Classification)
 - **Skills**: Model Extraction, Generative Modelling
 
-#### AI Mathematics Olympiad
-Implemented 4-bit quantized QwQ-32B-Preview model for mathematical reasoning tasks.
-- **Skills**: Quantization, Chain-of-Thought Reasoning
+#### Dopamine-Gated Random Network Distillation(RND) for Adaptive Exploration
+Developed Dopamine-Gated RND (DG-RND), a framework that improves exploration by dynamically adjusting novelty bonuses using a gating mechanism inspired by dopaminergic signals. The method significantly outperformed standard RND on Montezuma's Revenge, discovering more rooms and achieving higher rewards.
+- **Skills**: Reinforcement Learning, Intrinsic Motivation, Exploration Algorithms, PPO, Atari Benchmarks
 
 ## Contact & Social
 
