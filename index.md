@@ -23,7 +23,7 @@ I am a recent graduate from the Indian Institute of Technology (IIT) Banaras Hin
 
 ## Featured Projects
 
-#### Hopper Behavior Modification**
+#### Hopper Behavior Modification
 Developed a novel MuJoCo dataset by modifying hopper reward structures, creating scenarios of varied locomotion (slower hops, reverse movement, stationary positions). 
 - [🎥 Demo](https://drive.google.com/drive/u/1/folders/1e6jph-_49LnZMyFoIZvSZe4GQLZQ7AIG)
 - **Skills**: Reward Engineering
