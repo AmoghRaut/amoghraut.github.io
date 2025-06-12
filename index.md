@@ -35,6 +35,7 @@ As a part of Inter IIT Tech Meet, implemented model extraction techniques for vi
 
 #### Dopamine-Gated Random Network Distillation(RND) for Adaptive Exploration
 Developed Dopamine-Gated RND (DG-RND), a framework that improves exploration by dynamically adjusting novelty bonuses using a gating mechanism inspired by dopaminergic signals. The method significantly outperformed standard RND on Montezuma's Revenge, discovering more rooms and achieving higher rewards.
+- [💻 Code](https://github.com/AmoghRaut/SurpriseModulatedExploration)
 - **Skills**: Reinforcement Learning, Intrinsic Motivation, Exploration Algorithms, PPO, Atari Benchmarks
 
 ## Contact & Social
